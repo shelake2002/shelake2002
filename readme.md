@@ -1,7 +1,6 @@
 ### Hi there 👋
 <!--
 **shelake2002/shelake2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some# Hello there! 👋
 I'm Swati Shelake, a Computer Engineer enthusiast with a hunger for learning and a passion for technology.
 🎓 I'm currently pursuing my Bachelor's degree in Computer Engineering.
